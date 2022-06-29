@@ -22,7 +22,7 @@ phases:
       # - timeout 15 sh -c "until docker info; do echo .; sleep 1; done" 
         # - yeni satir
          # - yeni satir3
-          # - yeni satir6
+          # - yeni satir7
        
        
   pre_build:
