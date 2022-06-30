@@ -23,6 +23,7 @@ phases:
         # - yeni satir
          # - yeni satir3
           # - yeni satir4
+          # - yeni satir8
        
        
   pre_build:
